@@ -1,2 +1,2 @@
-# finall-project
+# project_infinity
 SKshiledus Academy Final project
