@@ -1,2 +1,2 @@
-# project_infinity
-SKshiledus Academy Final project
+# 
+SKshieldus Academy Final project
