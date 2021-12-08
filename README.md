@@ -1,2 +1,2 @@
-# 
-SKshieldus Academy Final project
+# K-Shield JR_Project
+
